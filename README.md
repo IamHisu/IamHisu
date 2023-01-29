@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @IamHisu
-- 👀 And you just missed 5 seconds of your life..
 - Have a nice day!
 
 <!---
